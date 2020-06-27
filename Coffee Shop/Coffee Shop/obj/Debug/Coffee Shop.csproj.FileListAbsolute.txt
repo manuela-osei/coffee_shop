@@ -1,0 +1,9 @@
+E:\ACCESS TO HIGHER EDUCATION (BEDFORD COLLEGE)\Access to computing exercises\programming\programming assesment\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe.config
+E:\ACCESS TO HIGHER EDUCATION (BEDFORD COLLEGE)\Access to computing exercises\programming\programming assesment\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe
+E:\ACCESS TO HIGHER EDUCATION (BEDFORD COLLEGE)\Access to computing exercises\programming\programming assesment\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.pdb
+E:\ACCESS TO HIGHER EDUCATION (BEDFORD COLLEGE)\Access to computing exercises\programming\programming assesment\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csprojResolveAssemblyReference.cache
+E:\ACCESS TO HIGHER EDUCATION (BEDFORD COLLEGE)\Access to computing exercises\programming\programming assesment\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.frmCoffeeShop.resources
+E:\ACCESS TO HIGHER EDUCATION (BEDFORD COLLEGE)\Access to computing exercises\programming\programming assesment\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.Properties.Resources.resources
+E:\ACCESS TO HIGHER EDUCATION (BEDFORD COLLEGE)\Access to computing exercises\programming\programming assesment\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.GenerateResource.Cache
+E:\ACCESS TO HIGHER EDUCATION (BEDFORD COLLEGE)\Access to computing exercises\programming\programming assesment\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.exe
+E:\ACCESS TO HIGHER EDUCATION (BEDFORD COLLEGE)\Access to computing exercises\programming\programming assesment\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.pdb
